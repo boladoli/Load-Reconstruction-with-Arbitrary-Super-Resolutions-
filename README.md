@@ -10,3 +10,7 @@ This repository is an official PyTorch implementation of the manuscript **"Load 
 * PyTorch >= 1.12.0
 * Numpy = 1.19.2
 * Pandas = 1.3.5
+
+## Method
+<center><img src="./img/1687407281950.png"></center>
+
